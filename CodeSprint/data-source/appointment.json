@@ -1,0 +1,37 @@
+{
+  "emps": [
+    {
+      "empId": 0,
+      "firstName": "gfh",
+      "lastName": "fghf",
+      "basic": 4522,
+      "mobileNumber": "4547413274",
+      "email": "meena@gmail.com",
+      "dept": "Development",
+      "id": 4
+    },
+    {
+      "empId": 0,
+      "firstName": "Meena",
+      "lastName": "Chowdary",
+      "basic": 47000,
+      "mobileNumber": "9010930875",
+      "email": "meena@gmail.com",
+      "dept": "Development",
+      "id": 5
+    },
+    {
+      "id": 6
+    },
+    {
+      "empId": 0,
+      "firstName": "gvuyfvu",
+      "lastName": "uibhiu",
+      "age": 0,
+      "mobileNumber": "9874563210",
+      "email": "meena@gmail.com",
+      "address": "fgrftg",
+      "id": 7
+    }
+  ]
+}
